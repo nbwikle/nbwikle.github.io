@@ -1,12 +1,19 @@
 # blank-dev-template
 # basic bootstrap template
 
-title: blank-dev-template
+title: Nathan B. Wikle
+author: Nathan Wikle
 
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://uidaholib.github.io
-# baseurl is your github repository's name prefixed with a /
-baseurl: /blank-dev-template
+url: https://nbwikle.github.io
+
+# personal urls
+bio: "Nathan is a statistician"
+email: nbwikle@psu.edu
+github: https://github.com/nbwikle
+school: https://science.psu.edu/stat
+orcid: https://orcid.org/0000-0001-8574-8752
+
 
 # Use Bootstrap (true, false)
 bootstrap: true
@@ -15,4 +22,4 @@ bootstrap-js: true
 # Use JQuery Core
 jquery: true
 # Use fontawesome CDN (true, false)
-fontawesome: false
+fontawesome: true

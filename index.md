@@ -1,6 +1,14 @@
 ---
 title: Home
-layout: default
+layout: page
 ---
 
-# Test
+# Intro
+
+Facts about Nathan
+
+---
+
+## More
+
+More information
