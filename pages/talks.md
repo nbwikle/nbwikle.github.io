@@ -4,8 +4,6 @@ layout: page
 permalink: talks.html
 ---
 
-% # Talks
-
 ### Invited Talks
 
 "Constructing mechanistic spatial models from Ornstein-Uhlenbeck processes," CMStatistics, London. December 2021.

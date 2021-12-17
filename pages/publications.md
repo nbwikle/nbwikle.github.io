@@ -4,10 +4,6 @@ layout: page
 permalink: publications.html
 ---
 
-{% comment %}
-# Publications
-{% endcomment %}
-
 ### Journal Articles
 
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (in press) SARS-CoV-2 epidemic after social and economic reopening in three US states reveals shifts in age structure and clinical characteristics. *Science Advances*. medRxiv: [`https://doi.org/10.1101/2020.11.17.20232918`](https://doi.org/10.1101/2020.11.17.20232918)

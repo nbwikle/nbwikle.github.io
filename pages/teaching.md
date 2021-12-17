@@ -4,8 +4,6 @@ layout: page
 permalink: teaching.html
 ---
 
-% # Teaching
-
 ### Pennsylvania State University
 
 - *Stochastic Modeling*, Spring 2021
