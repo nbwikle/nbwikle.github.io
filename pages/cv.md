@@ -4,9 +4,7 @@ layout: page
 permalink: cv.html
 ---
 
--- # Nathan B Wikle
-
-#### Curriculum Vitae
+# Curriculum Vitae
 
 ---
 
