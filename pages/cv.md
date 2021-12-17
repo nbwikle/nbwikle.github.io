@@ -24,7 +24,9 @@ permalink: cv.html
 
 ## Academic Employment
 
-**Postdoctoral Scholar**, Department of Statistics and Data Sciences, *University of Texas at Austin*, 2021 -- present.
+**Postdoctoral Scholar**
+
+Department of Statistics and Data Sciences, *University of Texas at Austin*, 2021 -- present.
 - Supervisor: Corwin Zigler
 
 ---
@@ -37,7 +39,7 @@ permalink: cv.html
 
 Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F [and 11 others]. (2021) Optimal SARS-CoV-2 vaccine allocation using real-time seroprevalence estimates in Rhode Island and Massachusetts. *BMC Medicine*, **19**(162). [`https://doi.org/10.1186/s12916-021-02038-w`](https://doi.org/10.1186/s12916-021-02038-w)
 
-Wagner, T., Lottig, N.R, [and 16 others, including *Wikle, N.B.**]. (2020) Increasing accuracy of lake nutrient predictions in thousands of lakes by leveraging water clarity data. *Limnology and Oceanography Letters*. **5**(2), 228--235. [`https://doi.org/10.1002/lol2.10134`](https://doi.org/10.1002/lol2.10134)
+Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Increasing accuracy of lake nutrient predictions in thousands of lakes by leveraging water clarity data. *Limnology and Oceanography Letters*. **5**(2), 228--235. [`https://doi.org/10.1002/lol2.10134`](https://doi.org/10.1002/lol2.10134)
 
 **Wikle, N.B.**, Hanks, E.M., and Hughes, D.P. (2019). A dynamic individual-based model for high-resolution ant interactions. *Journal of Agricultural, Biological, and Environmental Statistics*. **24**(4), 589--609. [`https://doi.org/10.1007/s13253-019-00363-5`](https://doi.org/10.1007/s13253-019-00363-5)
 
@@ -55,7 +57,7 @@ Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (2021+) SA
 
 ### Invited Talks
 
-``Constructing mechanistic spatial models from Ornstein-Uhlenbeck processes,'' CMStatistics, London. December 2021.
+"Constructing mechanistic spatial models from Ornstein-Uhlenbeck processes," CMStatistics, London. December 2021.
 
 ### Contributed Talks
 
@@ -88,15 +90,9 @@ Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (2021+) SA
 
 ## Teaching Experience
 
-### Pennsylvania State University
+**Pennsylvania State University**
 
 - *Stochastic Modeling*, Spring 2021
 - *Experimental Methods for Engineering and the Sciences*, Spring 2019
 
 
-
-**Music Library Association**, member, 2017-present
-
-### Community Outreach
-
-**Latah County Historical Society**, Moscow, Idaho, board member, 2019-present   
