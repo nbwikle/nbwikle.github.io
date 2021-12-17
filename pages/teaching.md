@@ -6,4 +6,7 @@ permalink: teaching.html
 
 # Teaching
 
-{% include bootstrap/figure.html img="space.jpg" width="100%" caption="Sample Image" alt="outer space" %}
+###Pennsylvania State University
+
+- *Stochastic Modeling*, Spring 2021
+- *Experimental Methods for Engineering and the Sciences*, Spring 2019
