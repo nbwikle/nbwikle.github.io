@@ -6,7 +6,7 @@ permalink: publications.html
 
 {% comment %}
 # Publications
-{% end comment %}
+{% endcomment %}
 
 ### Journal Articles
 
