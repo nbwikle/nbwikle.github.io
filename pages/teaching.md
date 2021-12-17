@@ -4,7 +4,7 @@ layout: page
 permalink: teaching.html
 ---
 
-# Teaching
+% # Teaching
 
 ### Pennsylvania State University
 

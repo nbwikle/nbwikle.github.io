@@ -4,7 +4,7 @@ layout: page
 permalink: talks.html
 ---
 
-# Talks
+% # Talks
 
 ### Invited Talks
 

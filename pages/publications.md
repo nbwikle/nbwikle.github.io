@@ -4,7 +4,7 @@ layout: page
 permalink: publications.html
 ---
 
-# Publications
+% # Publications
 
 ### Journal Articles
 
