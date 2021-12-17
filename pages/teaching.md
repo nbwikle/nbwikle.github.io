@@ -6,7 +6,7 @@ permalink: teaching.html
 
 # Teaching
 
-###Pennsylvania State University
+### Pennsylvania State University
 
 - *Stochastic Modeling*, Spring 2021
 - *Experimental Methods for Engineering and the Sciences*, Spring 2019
