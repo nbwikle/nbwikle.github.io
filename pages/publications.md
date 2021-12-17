@@ -4,7 +4,9 @@ layout: page
 permalink: publications.html
 ---
 
-% # Publications
+{% comment %}
+# Publications
+{% end comment %}
 
 ### Journal Articles
 
