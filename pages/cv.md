@@ -4,4 +4,4 @@ layout: page
 permalink: cv.html
 ---
 
-My CV (last updated: December 2021): [pdf](assets/wikle-cv.pdf){:target="_blank" rel="noopener"}
+[My CV](assets/wikle-cv.pdf){:target="_blank" rel="noopener"} (last updated: January 2022).
