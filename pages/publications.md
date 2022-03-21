@@ -6,7 +6,7 @@ permalink: publications.html
 
 ### Journal Articles
 
-**Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (*Accepted*) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. arXiv: [`https://arxiv.org/abs/2010.04253`](https://arxiv.org/abs/2010.04253){:target="_blank" rel="noopener"} 
+**Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (2022) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. [`https://doi.org/10.1080/01621459.2022.2027774`](https://doi.org/10.1080/01621459.2022.2027774){:target="_blank" rel="noopener"} 
 
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022) SARS-CoV-2 epidemic after social and economic reopening in three US states reveals shifts in age structure and clinical characteristics. *Science Advances*. **8**(4). [`https://www.science.org/doi/10.1126/sciadv.abf9868`](https://www.science.org/doi/10.1126/sciadv.abf9868){:target="_blank" rel="noopener"} 
 
