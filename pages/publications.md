@@ -6,6 +6,8 @@ permalink: publications.html
 
 ### Journal Articles
 
+Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (*Accepted*) SARS-CoV-2 attack rate and population immunity in southern New England, March 2020 to May 2021. *JAMA Network Open*. medRxiv: [`https://doi.org/10.1101/2021.12.06.21267375`](https://doi.org/10.1101/2021.12.06.21267375){:target="_blank" rel="noopener"} 
+
 **Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (2022) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. [`https://doi.org/10.1080/01621459.2022.2027774`](https://doi.org/10.1080/01621459.2022.2027774){:target="_blank" rel="noopener"} 
 
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022) SARS-CoV-2 epidemic after social and economic reopening in three US states reveals shifts in age structure and clinical characteristics. *Science Advances*. **8**(4). [`https://www.science.org/doi/10.1126/sciadv.abf9868`](https://www.science.org/doi/10.1126/sciadv.abf9868){:target="_blank" rel="noopener"} 
@@ -18,6 +20,7 @@ Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Incr
 
 ### Preprints and Papers Under Review
 
-**Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2021+) A negative binomial process model of the 2020--2021 COVID-19 epidemic in Rhode Island. *In preparation*.
+**Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022+) A negative binomial process model of the 2020--2021 COVID-19 epidemic in Rhode Island. *In preparation*.
 
-Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (2021+) SARS-CoV-2 attack rate and population immunity in southern New England, March 2020 -- May 2021. *In review*. medRxiv: [`https://doi.org/10.1101/2021.12.06.21267375`](https://doi.org/10.1101/2021.12.06.21267375){:target="_blank" rel="noopener"} 
+**Wikle, N.B.** and Zigler, C.M. (2022+) Estimating causal effects under interference and a probabilistic exposure model. •In preparation*.
+
