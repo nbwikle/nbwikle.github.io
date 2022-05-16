@@ -22,5 +22,5 @@ Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Incr
 
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022+) A negative binomial process model of the 2020--2021 COVID-19 epidemic in Rhode Island. *In preparation*.
 
-**Wikle, N.B.** and Zigler, C.M. (2022+) Estimating causal effects under interference and a probabilistic exposure model. •In preparation*.
+**Wikle, N.B.** and Zigler, C.M. (2022+) Estimating causal effects under interference and a probabilistic exposure model. *In preparation*.
 
