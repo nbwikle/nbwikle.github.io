@@ -6,6 +6,8 @@ permalink: talks.html
 
 ### Talks
 
+"Causal Inference for Spatial Data: Estimation of causal effects under interference and a probabilistic exposure model," UT Austin Statistics Department Seminar, Austin, TX. September 2022. *Invited.*
+
 "Estimation of causal effects under interference and a probabilistic exposure model," Joint Statistical Meetings, Washington, DC. August 2022. *Invited.*
 
 "Asthma and air pollution: estimating the effect of power plant interventions on asthma-related emergency department visits in Texas," Matsui Research Group, Austin, TX. May 2022. *Invited.*

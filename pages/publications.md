@@ -6,9 +6,9 @@ permalink: publications.html
 
 ### Journal Articles
 
-Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (*Accepted*) SARS-CoV-2 attack rate and population immunity in southern New England, March 2020 to May 2021. *JAMA Network Open*. medRxiv: [`https://doi.org/10.1101/2021.12.06.21267375`](https://doi.org/10.1101/2021.12.06.21267375){:target="_blank" rel="noopener"} 
+**Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (2022) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. **117**(539), 1082--1093.  [`https://doi.org/10.1080/01621459.2022.2027774`](https://doi.org/10.1080/01621459.2022.2027774){:target="_blank" rel="noopener"} 
 
-**Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (2022) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. [`https://doi.org/10.1080/01621459.2022.2027774`](https://doi.org/10.1080/01621459.2022.2027774){:target="_blank" rel="noopener"} 
+Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F. [and 10 others]. (2022) SARS-CoV-2 attack rate and population immunity in southern New England, March 2020 to May 2021. *JAMA Network Open*. **5**(5):e2214171. [`https://doi.org/10.1101/2021.12.06.21267375`](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2792721){:target="_blank" rel="noopener"} 
 
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022) SARS-CoV-2 epidemic after social and economic reopening in three US states reveals shifts in age structure and clinical characteristics. *Science Advances*. **8**(4). [`https://www.science.org/doi/10.1126/sciadv.abf9868`](https://www.science.org/doi/10.1126/sciadv.abf9868){:target="_blank" rel="noopener"} 
 
