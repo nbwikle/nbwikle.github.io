@@ -16,11 +16,12 @@ Tran, T.N., **Wikle, N.B.**, Hanks, E.M., Boni, M.F [and 11 others]. (2021) Opti
 
 Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Increasing accuracy of lake nutrient predictions in thousands of lakes by leveraging water clarity data. *Limnology and Oceanography Letters*. **5**(2), 228--235. [`https://doi.org/10.1002/lol2.10134`](https://doi.org/10.1002/lol2.10134){:target="_blank" rel="noopener"} 
 
-**Wikle, N.B.**, Hanks, E.M., and Hughes, D.P. (2019). A dynamic individual-based model for high-resolution ant interactions. *Journal of Agricultural, Biological, and Environmental Statistics*. **24**(4), 589--609. [`https://doi.org/10.1007/s13253-019-00363-5`](https://doi.org/10.1007/s13253-019-00363-5){:target="_blank" rel="noopener"} 
+**Wikle, N.B.**, Hanks, E.M., and Hughes, D.P. (2019) A dynamic individual-based model for high-resolution ant interactions. *Journal of Agricultural, Biological, and Environmental Statistics*. **24**(4), 589--609. [`https://doi.org/10.1007/s13253-019-00363-5`](https://doi.org/10.1007/s13253-019-00363-5){:target="_blank" rel="noopener"} 
 
 ### Preprints and Papers Under Review
 
+**Wikle, N.B.** and Zigler, C.M. (2023+) Causal health impacts of power plant emission controls under modeled and uncertain physical process interference. *Submitted*.
+
 **Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022+) A negative binomial process model of the 2020--2021 COVID-19 epidemic in Rhode Island. *In preparation*.
 
-**Wikle, N.B.** and Zigler, C.M. (2022+) Estimating causal effects under interference and a probabilistic exposure model. *In preparation*.
 

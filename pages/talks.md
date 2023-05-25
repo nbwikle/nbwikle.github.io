@@ -6,7 +6,17 @@ permalink: talks.html
 
 ### Talks
 
-"Causal Inference for Spatial Data: Estimation of causal effects under interference and a probabilistic exposure model," UT Austin Statistics Department Seminar, Austin, TX. September 2022. *Invited.*
+"Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," American Casual Inference Conference (ACIC), Austin, TX. May 2023.
+
+"Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Michigan Biostatistics Department, Ann Arbor, MI. February 2023. *Invited.*
+
+"Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Connecticut Statistics Department, Storrs, CT. January 2023. *Invited.*
+
+"Asthma and air pollution: Estimating direct and indirect effects of power plant interventions on asthma-related ED visits with a probabilistic exposure model," International Conference on Health Policy Statistics (CHPS), Scottsdale, AZ. January 2023.
+
+"Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Iowa Statistics Department, Iowa City, IA. December 2022. *Invited.*
+
+"Causal Inference for spatial data: Estimation of causal effects under interference and a probabilistic exposure model," UT Austin Statistics Department, Austin, TX. September 2022. *Invited.*
 
 "Estimation of causal effects under interference and a probabilistic exposure model," Joint Statistical Meetings, Washington, DC. August 2022. *Invited.*
 
