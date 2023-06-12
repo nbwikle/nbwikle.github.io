@@ -20,8 +20,7 @@ Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Incr
 
 ### Preprints and Papers Under Review
 
-**Wikle, N.B.** and Zigler, C.M. (2023+) Causal health impacts of power plant emission controls under modeled and uncertain physical process interference. *Submitted*.
+**Wikle, N.B.** and Zigler, C.M. (2023+) Causal health impacts of power plant emission controls under modeled and uncertain physical process interference. *Submitted*.  [`https://arxiv.org/abs/2306.05665`](https://arxiv.org/abs/2306.05665){:target="_blank" rel="noopener"} 
 
-**Wikle, N.B.**, Tran, T.N., Hanks, E.M., Boni, M.F. [and 12 others]. (2022+) A negative binomial process model of the 2020--2021 COVID-19 epidemic in Rhode Island. *In preparation*.
 
 

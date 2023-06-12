@@ -12,7 +12,7 @@ permalink: talks.html
 
 "Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Connecticut Statistics Department, Storrs, CT. January 2023. *Invited.*
 
-"Asthma and air pollution: Estimating direct and indirect effects of power plant interventions on asthma-related ED visits with a probabilistic exposure model," International Conference on Health Policy Statistics (CHPS), Scottsdale, AZ. January 2023.
+"Asthma and air pollution: Estimating direct and indirect effects of power plant interventions on asthma-related ED visits with a probabilistic exposure model," International Conference on Health Policy Statistics (ICHPS), Scottsdale, AZ. January 2023.
 
 "Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Iowa Statistics Department, Iowa City, IA. December 2022. *Invited.*
 
