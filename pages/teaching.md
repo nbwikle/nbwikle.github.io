@@ -4,6 +4,12 @@ layout: page
 permalink: teaching.html
 ---
 
+### University of Iowa
+
+**Professor**
+
+-*Introduction to Mathematical Statistics I*, Fall 2023. (STAT 3100)
+
 ### Pennsylvania State University
 
 **Graduate Instructor**
