@@ -6,6 +6,10 @@ permalink: talks.html
 
 ### Talks
 
+"Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," Iowa State University Statistics Department, Ames, IA. April 2024.
+
+"Bayesian causal inference with uncertain physical process interference," University of Iowa Biostatistics Department, Iowa City, IA. November 2023.
+
 "Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," American Casual Inference Conference (ACIC), Austin, TX. May 2023.
 
 "Causal inference for environmental health data: Estimating causal effects in the presence of spatial interference," University of Michigan Biostatistics Department, Ann Arbor, MI. February 2023. *Invited.*
@@ -33,6 +37,8 @@ permalink: talks.html
 "A dynamic individual-based model of ant interaction events," Joint Statistical Meetings, Vancouver. July 2018.
 
 ### Posters
+
+"Bayesian causal inference with uncertain physical process interference," American Casual Inference Conference, Seattle, WA. May 2024.
 
 "A dynamic individual-based model of ant interaction events"
 - Rao Prize Conference, Pennsylvania State University, University Park, PA. May 2019.

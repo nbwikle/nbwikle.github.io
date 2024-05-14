@@ -6,6 +6,7 @@ permalink: teaching.html
 
 ### University of Iowa
 
+- *Applied Statistics II (Experimental Design), Spring 2024. (STAT 5201)
 - *Introduction to Mathematical Statistics I*, Fall 2023. (STAT 3100)
 
 ### Pennsylvania State University
