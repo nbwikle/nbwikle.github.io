@@ -23,8 +23,8 @@ Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Incr
 
 ### Pre-prints
 
-**Wikle, N.B.** and Zigler, C.M. (2026) Spatial Covariate Balancing Propensity Scores for Causal Inference with Latent Spatial Confounding. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
+**Wikle, N.B.** and Zigler, C.M. (2026) Spatial Covariate Balancing Propensity Scores for Causal Inference with Latent Spatial Confounding. [pre-print](assets/papers/Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
 
-Schmidt, T. and **Wikle, N.B.** (2026) Calibrated Bayesian Inference for Stochastic Interventions. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
+Schmidt, T. and **Wikle, N.B.** (2026) Calibrated Bayesian Inference for Stochastic Interventions. [pre-print](assets/papers/Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
 
-Wang, S. and **Wikle, N.B.** (2026) Estimating the spillover effect of animal feeding operations on air and water quality in Iowa. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
+Wang, S. and **Wikle, N.B.** (2026) Estimating the spillover effect of animal feeding operations on air and water quality in Iowa. [pre-print](assets/papers/Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
