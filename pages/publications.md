@@ -6,7 +6,7 @@ permalink: publications.html
 
 ### Journal Articles
 
-**Wikle, N.B.** and Zigler, C.M. (2024+) Causal health impacts of power plant emission controls under modeled and uncertain physical process interference. Accepted to *Annals of Applied Statistics*.  [`https://arxiv.org/abs/2306.05665`](https://arxiv.org/abs/2306.05665){:target="_blank" rel="noopener"} 
+**Wikle, N.B.** and Zigler, C.M. (2024) Causal health impacts of power plant emission controls under modeled and uncertain physical process interference. Accepted to *Annals of Applied Statistics*. **18**(4), 2753--2774. [`https://doi.org/10.1214/24-aoas1904`](https://doi.org/10.1214/24-aoas1904){:target="_blank" rel="noopener"} 
 
 **Wikle, N.B.**, Hanks, E.M., Henneman, L.R.F., and Zigler, C.M. (2022) A mechanistic model of annual sulfate concentrations in the United States. *Journal of the American Statistical Association*. **117**(539), 1082--1093.  [`https://doi.org/10.1080/01621459.2022.2027774`](https://doi.org/10.1080/01621459.2022.2027774){:target="_blank" rel="noopener"} 
 
@@ -21,6 +21,10 @@ Wagner, T., Lottig, N.R, [and 16 others, including **Wikle, N.B.**]. (2020) Incr
 **Wikle, N.B.**, Hanks, E.M., and Hughes, D.P. (2019) A dynamic individual-based model for high-resolution ant interactions. *Journal of Agricultural, Biological, and Environmental Statistics*. **24**(4), 589--609. [`https://doi.org/10.1007/s13253-019-00363-5`](https://doi.org/10.1007/s13253-019-00363-5){:target="_blank" rel="noopener"} 
 
 
+### Pre-prints
 
+**Wikle, N.B.** and Zigler, C.M. (2026) Spatial Covariate Balancing Propensity Scores for Causal Inference with Latent Spatial Confounding. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
 
+Schmidt, T. and **Wikle, N.B.** (2026) Calibrated Bayesian Inference for Stochastic Interventions. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
 
+Wang, S. and **Wikle, N.B.** (2026) Estimating the spillover effect of animal feeding operations on air and water quality in Iowa. [pre-print](Wikle_Zigler-SpatialCBPSWithLatentSpatialConfounding-2026.pdf){:target="_blank" rel="noopener"}
